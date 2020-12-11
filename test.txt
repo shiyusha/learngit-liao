@@ -1,4 +1,4 @@
 666
-origin change
+origin change, a debug of issue 101.
 a conflict
 a change in dev
